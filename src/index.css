@@ -2984,6 +2984,10 @@ table {
   clear: both;
 }
 
+.font-pt-serif {
+  font-family: PT Sans, sans-serif;
+}
+
 .font-sans {
   font-family: system-ui, BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
@@ -5788,6 +5792,38 @@ table {
   color: #ffebef;
 }
 
+.text-1 {
+  font-size: .25rem;
+}
+
+.text-2 {
+  font-size: .5rem;
+}
+
+.text-3 {
+  font-size: .75rem;
+}
+
+.text-4 {
+  font-size: 1rem;
+}
+
+.text-5 {
+  font-size: 1.25rem;
+}
+
+.text-6 {
+  font-size: 1.5rem;
+}
+
+.text-7 {
+  font-size: 1.75rem;
+}
+
+.text-8 {
+  font-size: 2rem;
+}
+
 .text-xs {
   font-size: .75rem;
 }
@@ -8562,6 +8598,10 @@ table {
     content: "";
     display: table;
     clear: both;
+  }
+
+  .sm\:font-pt-serif {
+    font-family: PT Sans, sans-serif;
   }
 
   .sm\:font-sans {
@@ -11352,6 +11392,38 @@ table {
     color: #ffebef;
   }
 
+  .sm\:text-1 {
+    font-size: .25rem;
+  }
+
+  .sm\:text-2 {
+    font-size: .5rem;
+  }
+
+  .sm\:text-3 {
+    font-size: .75rem;
+  }
+
+  .sm\:text-4 {
+    font-size: 1rem;
+  }
+
+  .sm\:text-5 {
+    font-size: 1.25rem;
+  }
+
+  .sm\:text-6 {
+    font-size: 1.5rem;
+  }
+
+  .sm\:text-7 {
+    font-size: 1.75rem;
+  }
+
+  .sm\:text-8 {
+    font-size: 2rem;
+  }
+
   .sm\:text-xs {
     font-size: .75rem;
   }
@@ -14127,6 +14199,10 @@ table {
     content: "";
     display: table;
     clear: both;
+  }
+
+  .md\:font-pt-serif {
+    font-family: PT Sans, sans-serif;
   }
 
   .md\:font-sans {
@@ -16917,6 +16993,38 @@ table {
     color: #ffebef;
   }
 
+  .md\:text-1 {
+    font-size: .25rem;
+  }
+
+  .md\:text-2 {
+    font-size: .5rem;
+  }
+
+  .md\:text-3 {
+    font-size: .75rem;
+  }
+
+  .md\:text-4 {
+    font-size: 1rem;
+  }
+
+  .md\:text-5 {
+    font-size: 1.25rem;
+  }
+
+  .md\:text-6 {
+    font-size: 1.5rem;
+  }
+
+  .md\:text-7 {
+    font-size: 1.75rem;
+  }
+
+  .md\:text-8 {
+    font-size: 2rem;
+  }
+
   .md\:text-xs {
     font-size: .75rem;
   }
@@ -19692,6 +19800,10 @@ table {
     content: "";
     display: table;
     clear: both;
+  }
+
+  .lg\:font-pt-serif {
+    font-family: PT Sans, sans-serif;
   }
 
   .lg\:font-sans {
@@ -22482,6 +22594,38 @@ table {
     color: #ffebef;
   }
 
+  .lg\:text-1 {
+    font-size: .25rem;
+  }
+
+  .lg\:text-2 {
+    font-size: .5rem;
+  }
+
+  .lg\:text-3 {
+    font-size: .75rem;
+  }
+
+  .lg\:text-4 {
+    font-size: 1rem;
+  }
+
+  .lg\:text-5 {
+    font-size: 1.25rem;
+  }
+
+  .lg\:text-6 {
+    font-size: 1.5rem;
+  }
+
+  .lg\:text-7 {
+    font-size: 1.75rem;
+  }
+
+  .lg\:text-8 {
+    font-size: 2rem;
+  }
+
   .lg\:text-xs {
     font-size: .75rem;
   }
@@ -25257,6 +25401,10 @@ table {
     content: "";
     display: table;
     clear: both;
+  }
+
+  .xl\:font-pt-serif {
+    font-family: PT Sans, sans-serif;
   }
 
   .xl\:font-sans {
@@ -28045,6 +28193,38 @@ table {
 
   .xl\:focus\:text-pink-lightest:focus {
     color: #ffebef;
+  }
+
+  .xl\:text-1 {
+    font-size: .25rem;
+  }
+
+  .xl\:text-2 {
+    font-size: .5rem;
+  }
+
+  .xl\:text-3 {
+    font-size: .75rem;
+  }
+
+  .xl\:text-4 {
+    font-size: 1rem;
+  }
+
+  .xl\:text-5 {
+    font-size: 1.25rem;
+  }
+
+  .xl\:text-6 {
+    font-size: 1.5rem;
+  }
+
+  .xl\:text-7 {
+    font-size: 1.75rem;
+  }
+
+  .xl\:text-8 {
+    font-size: 2rem;
   }
 
   .xl\:text-xs {
