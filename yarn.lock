@@ -2,6 +2,16 @@
 # yarn lockfile v1
 
 
+"@haiku/core@^3.4.8":
+  version "3.4.8"
+  resolved "https://reservoir.haiku.ai:8910/@haiku%2fcore/-/core-3.4.8.tgz#1e1cc512c541f1e7388dc8a89a04552076f67c76"
+
+"@haiku/jikkujose-hellohaiku@^0.0.1":
+  version "0.0.1"
+  resolved "https://reservoir.haiku.ai:8910/@haiku%2fjikkujose-hellohaiku/-/jikkujose-hellohaiku-0.0.1.tgz#b2844d31eff84950f1b33910cd009a16512b2d5d"
+  dependencies:
+    "@haiku/core" "^3.4.8"
+
 abab@^1.0.3:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/abab/-/abab-1.0.4.tgz#5faad9c2c07f60dd76770f71cf025b62a63cfd4e"

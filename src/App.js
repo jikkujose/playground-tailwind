@@ -1,6 +1,7 @@
 import React, { Component } from "react"
 import logo from "./logo.svg"
 import "./App.css"
+import Hellohaiku from "@haiku/jikkujose-hellohaiku/react"
 
 import { Card } from "./Card"
 
@@ -18,6 +19,7 @@ class App extends Component {
     return (
       <div className="p-32 min-h-screen">
         <Card {...zach} />
+        <Hellohaiku loop={true} />
       </div>
     )
   }
